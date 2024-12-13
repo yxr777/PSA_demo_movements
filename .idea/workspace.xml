@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="446979c4-b381-4ea2-a36f-5fd4e00c2683" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/Tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/cfg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/main_keyboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/serial_distance/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/serial_distance/serial_distance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/AprilTag" beforeDir="false" afterPath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/AprilTag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/AprilTag/install.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/AprilTag/install.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/AprilTag/uninstall.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/AprilTag/uninstall.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/Yuna.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/Yuna.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/Yuna_Env.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/Yuna_Env.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/Yuna_TrajPlanner.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/Yuna_TrajPlanner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/robot_setup/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/robot_setup/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/robot_setup/setup_xmonster.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/robot_setup/setup_xmonster.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/robot_setup/xMonsterKinematics.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/robot_setup/xMonsterKinematics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/test_goto.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/test_goto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/test_m2ltrasition.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/test_m2ltrasition.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2q1BTIkRTM0M1CGe8DKJgGKhmEt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Yuna_TrajPlanner.executor": "Run",
+    "Python.main_demo.executor": "Run",
+    "Python.test_goto.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/marmot/yangxinrong/PSA_demo_movements",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "two.files.diff.last.used.file": "/home/marmot/yangxinrong/Yuna_PyBullet/main_keyboard.py",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/robot_setup" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Yuna_TrajPlanner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PSA_demo_movements" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/Yuna_TrajPlanner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Yuna_TrajPlanner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.428" />
+        <option value="bundled-python-sdk-80e8e15d2b92-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.428" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="446979c4-b381-4ea2-a36f-5fd4e00c2683" name="Changes" comment="" />
+      <created>1733820207113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733820207113</updated>
+      <workItem from="1733820208148" duration="32225000" />
+      <workItem from="1733984947154" duration="1165000" />
+      <workItem from="1734068456822" duration="2214000" />
+      <workItem from="1734070872154" duration="2203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements/main_keyboard.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PSA_demo_movements$test_goto.coverage" NAME="test_goto Coverage Results" MODIFIED="1733820662863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PSA_demo_movements" />
+    <SUITE FILE_PATH="coverage/PSA_demo_movements$Yuna_TrajPlanner.coverage" NAME="Yuna_TrajPlanner Coverage Results" MODIFIED="1733906152214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements" />
+    <SUITE FILE_PATH="coverage/PSA_demo_movements$main_demo.coverage" NAME="main_demo Coverage Results" MODIFIED="1733898577279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/PSA_demo_movements/PSA_demo_movements" />
+  </component>
+</project>

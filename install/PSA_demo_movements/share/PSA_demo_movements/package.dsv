@@ -1,0 +1,6 @@
+source;share/PSA_demo_movements/hook/pythonpath.ps1
+source;share/PSA_demo_movements/hook/pythonpath.dsv
+source;share/PSA_demo_movements/hook/pythonpath.sh
+source;share/PSA_demo_movements/hook/ament_prefix_path.ps1
+source;share/PSA_demo_movements/hook/ament_prefix_path.dsv
+source;share/PSA_demo_movements/hook/ament_prefix_path.sh

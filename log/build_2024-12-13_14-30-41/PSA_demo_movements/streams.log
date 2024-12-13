@@ -1,0 +1,29 @@
+[0.231s] Invoking command in '/home/marmot/yangxinrong/PSA_demo_movements/src/PSA_demo_movements': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/PSA_demo_movements build --build-base /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build install --record /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/install.log --single-version-externally-managed install_data
+[0.325s] running egg_info
+[0.325s] writing ../../build/PSA_demo_movements/PSA_demo_movements.egg-info/PKG-INFO
+[0.325s] writing dependency_links to ../../build/PSA_demo_movements/PSA_demo_movements.egg-info/dependency_links.txt
+[0.325s] writing entry points to ../../build/PSA_demo_movements/PSA_demo_movements.egg-info/entry_points.txt
+[0.325s] writing requirements to ../../build/PSA_demo_movements/PSA_demo_movements.egg-info/requires.txt
+[0.326s] writing top-level names to ../../build/PSA_demo_movements/PSA_demo_movements.egg-info/top_level.txt
+[0.327s] reading manifest file '../../build/PSA_demo_movements/PSA_demo_movements.egg-info/SOURCES.txt'
+[0.327s] writing manifest file '../../build/PSA_demo_movements/PSA_demo_movements.egg-info/SOURCES.txt'
+[0.327s] running build
+[0.327s] running build_py
+[0.327s] copying PSA_demo_movements/main_keyboard.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+[0.327s] copying PSA_demo_movements/Yuna.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+[0.328s] running install
+[0.328s] running install_lib
+[0.328s] copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/main_keyboard.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+[0.329s] copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/Yuna.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+[0.329s] byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/main_keyboard.py to main_keyboard.cpython-310.pyc
+[0.329s] byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/Yuna.py to Yuna.cpython-310.pyc
+[0.331s] running install_data
+[0.331s] running install_egg_info
+[0.332s] removing '/home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements-0.0.0-py3.10.egg-info' (and everything under it)
+[0.332s] Copying ../../build/PSA_demo_movements/PSA_demo_movements.egg-info to /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements-0.0.0-py3.10.egg-info
+[0.332s] running install_scripts
+[0.341s] Installing main_demo script to /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/PSA_demo_movements
+[0.341s] Installing main_keyboard script to /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/PSA_demo_movements
+[0.341s] Installing test_goto script to /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/PSA_demo_movements
+[0.341s] writing list of installed files to '/home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/install.log'
+[0.350s] Invoked command in '/home/marmot/yangxinrong/PSA_demo_movements/src/PSA_demo_movements' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/PSA_demo_movements build --build-base /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build install --record /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/install.log --single-version-externally-managed install_data

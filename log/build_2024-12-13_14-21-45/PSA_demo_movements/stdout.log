@@ -1,0 +1,142 @@
+running egg_info
+creating ../../build/PSA_demo_movements/PSA_demo_movements.egg-info
+writing ../../build/PSA_demo_movements/PSA_demo_movements.egg-info/PKG-INFO
+writing dependency_links to ../../build/PSA_demo_movements/PSA_demo_movements.egg-info/dependency_links.txt
+writing entry points to ../../build/PSA_demo_movements/PSA_demo_movements.egg-info/entry_points.txt
+writing requirements to ../../build/PSA_demo_movements/PSA_demo_movements.egg-info/requires.txt
+writing top-level names to ../../build/PSA_demo_movements/PSA_demo_movements.egg-info/top_level.txt
+writing manifest file '../../build/PSA_demo_movements/PSA_demo_movements.egg-info/SOURCES.txt'
+reading manifest file '../../build/PSA_demo_movements/PSA_demo_movements.egg-info/SOURCES.txt'
+writing manifest file '../../build/PSA_demo_movements/PSA_demo_movements.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build
+creating /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib
+creating /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/test_bodyrotate.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/main_keyboard.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/test_container_terrain.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/test_apriltag.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/main_demo.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/test_bodyshift.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/Yuna_TrajPlanner.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/functions.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/test_m2ltrasition.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/plot_traj.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/cfg.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/calibrate_cam.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/Yuna.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/test_manipulation_flow.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/test.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/test_joystick.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/main.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/Yuna_Env.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/__init__.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/calibrate_moving_rate.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/main_manual_fine_tune.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/test_docking_cage.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/test_goto.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/test_docking.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/test_camera.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+creating /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/Tools
+copying PSA_demo_movements/Tools/rigid_transform_3D.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/Tools
+copying PSA_demo_movements/Tools/transforms.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/Tools
+copying PSA_demo_movements/Tools/__init__.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/Tools
+creating /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/serial_distance
+copying PSA_demo_movements/serial_distance/__init__.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/serial_distance
+copying PSA_demo_movements/serial_distance/serial_distance.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/serial_distance
+creating /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/robot_setup
+copying PSA_demo_movements/robot_setup/setup_modules.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/robot_setup
+copying PSA_demo_movements/robot_setup/setup_xmonster.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/robot_setup
+copying PSA_demo_movements/robot_setup/yunaKinematics.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/robot_setup
+copying PSA_demo_movements/robot_setup/__init__.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/robot_setup
+copying PSA_demo_movements/robot_setup/xMonsterKinematics.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/robot_setup
+running install
+running install_lib
+creating /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/test_bodyrotate.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/main_keyboard.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/test_container_terrain.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/test_apriltag.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/main_demo.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/test_bodyshift.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/Yuna_TrajPlanner.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/functions.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/test_m2ltrasition.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/plot_traj.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/cfg.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/calibrate_cam.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/Yuna.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/test_manipulation_flow.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/test.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/test_joystick.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+creating /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/Tools
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/Tools/rigid_transform_3D.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/Tools
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/Tools/transforms.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/Tools
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/Tools/__init__.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/Tools
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/main.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+creating /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/serial_distance
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/serial_distance/__init__.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/serial_distance
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/serial_distance/serial_distance.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/serial_distance
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/Yuna_Env.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+creating /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/robot_setup
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/robot_setup/setup_modules.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/robot_setup
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/robot_setup/setup_xmonster.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/robot_setup
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/robot_setup/yunaKinematics.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/robot_setup
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/robot_setup/__init__.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/robot_setup
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/robot_setup/xMonsterKinematics.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/robot_setup
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/__init__.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/calibrate_moving_rate.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/main_manual_fine_tune.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/test_docking_cage.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/test_goto.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/test_docking.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/test_camera.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/test_bodyrotate.py to test_bodyrotate.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/main_keyboard.py to main_keyboard.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/test_container_terrain.py to test_container_terrain.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/test_apriltag.py to test_apriltag.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/main_demo.py to main_demo.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/test_bodyshift.py to test_bodyshift.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/Yuna_TrajPlanner.py to Yuna_TrajPlanner.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/functions.py to functions.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/test_m2ltrasition.py to test_m2ltrasition.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/plot_traj.py to plot_traj.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/cfg.py to cfg.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/calibrate_cam.py to calibrate_cam.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/Yuna.py to Yuna.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/test_manipulation_flow.py to test_manipulation_flow.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/test.py to test.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/test_joystick.py to test_joystick.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/Tools/rigid_transform_3D.py to rigid_transform_3D.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/Tools/transforms.py to transforms.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/Tools/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/main.py to main.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/serial_distance/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/serial_distance/serial_distance.py to serial_distance.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/Yuna_Env.py to Yuna_Env.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/robot_setup/setup_modules.py to setup_modules.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/robot_setup/setup_xmonster.py to setup_xmonster.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/robot_setup/yunaKinematics.py to yunaKinematics.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/robot_setup/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/robot_setup/xMonsterKinematics.py to xMonsterKinematics.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/calibrate_moving_rate.py to calibrate_moving_rate.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/main_manual_fine_tune.py to main_manual_fine_tune.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/test_docking_cage.py to test_docking_cage.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/test_goto.py to test_goto.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/test_docking.py to test_docking.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/test_camera.py to test_camera.cpython-310.pyc
+running install_data
+creating /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/share/ament_index
+creating /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/share/ament_index/resource_index
+creating /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/share/ament_index/resource_index/packages
+copying resource/PSA_demo_movements -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/share/ament_index/resource_index/packages
+copying package.xml -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/share/PSA_demo_movements
+running install_egg_info
+Copying ../../build/PSA_demo_movements/PSA_demo_movements.egg-info to /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements-0.0.0-py3.10.egg-info
+running install_scripts
+Installing main_demo script to /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/PSA_demo_movements
+Installing main_keyboard script to /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/PSA_demo_movements
+Installing test_goto script to /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/PSA_demo_movements
+writing list of installed files to '/home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/install.log'

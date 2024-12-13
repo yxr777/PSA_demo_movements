@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/PSA_demo_movements/PSA_demo_movements.egg-info/PKG-INFO
+writing dependency_links to ../../build/PSA_demo_movements/PSA_demo_movements.egg-info/dependency_links.txt
+writing entry points to ../../build/PSA_demo_movements/PSA_demo_movements.egg-info/entry_points.txt
+writing requirements to ../../build/PSA_demo_movements/PSA_demo_movements.egg-info/requires.txt
+writing top-level names to ../../build/PSA_demo_movements/PSA_demo_movements.egg-info/top_level.txt
+reading manifest file '../../build/PSA_demo_movements/PSA_demo_movements.egg-info/SOURCES.txt'
+writing manifest file '../../build/PSA_demo_movements/PSA_demo_movements.egg-info/SOURCES.txt'
+running build
+running build_py
+copying PSA_demo_movements/main_keyboard.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+copying PSA_demo_movements/Yuna.py -> /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements
+running install
+running install_lib
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/main_keyboard.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+copying /home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/build/lib/PSA_demo_movements/Yuna.py -> /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/main_keyboard.py to main_keyboard.cpython-310.pyc
+byte-compiling /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements/Yuna.py to Yuna.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/PSA_demo_movements/PSA_demo_movements.egg-info to /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/python3.10/site-packages/PSA_demo_movements-0.0.0-py3.10.egg-info
+running install_scripts
+Installing main_demo script to /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/PSA_demo_movements
+Installing main_keyboard script to /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/PSA_demo_movements
+Installing test_goto script to /home/marmot/yangxinrong/PSA_demo_movements/install/PSA_demo_movements/lib/PSA_demo_movements
+writing list of installed files to '/home/marmot/yangxinrong/PSA_demo_movements/build/PSA_demo_movements/install.log'
